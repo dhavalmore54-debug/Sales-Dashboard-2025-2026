@@ -25,7 +25,7 @@ Interactive Sales Dashboard for 2025-2026 built using Excel, featuring KPI track
 - Dashboard preview image
 
 ## Dashboard Preview
-sales_Dashboard.png
+sales_dashboard.png
 
 ## Author
 Dhaval More
